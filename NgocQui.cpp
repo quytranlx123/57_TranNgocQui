@@ -1,1 +1,2 @@
-cout << "HI"
+cout << "HI" >> ;
+cout << "Hi" >> ;
